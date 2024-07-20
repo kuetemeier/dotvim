@@ -1,8 +1,8 @@
 ## Archived
 
-For a more recent version see my new home and dot-files here:
+For a more recent version see my new Neovim configuration here:
 
-https://github.com/kuetemeier/home-files
+https://github.com/kuetemeier/neovim-x
 
 # dotvim - Personal Vim Configuration
 
